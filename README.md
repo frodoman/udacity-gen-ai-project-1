@@ -5,12 +5,12 @@ This project demos how to use Parameter-efficient Fine-tuning (PEFT) to fintune 
 Built whith Python and Jupyter notebook.
 
 ## Python dependencies
-datasets
-transformers
-torch
-numpy
-peft
-huggingface-hub
+* datasets
+* transformers
+* torch
+* numpy
+* peft
+* huggingface-hub
 
 
 ## How to run
