@@ -1,8 +1,8 @@
-# Apply Lightweight Fine-Tuning to a Foundation Model
+# Project: Apply Lightweight Fine-Tuning to a Foundation Model
 
 This project demos how to use Parameter-efficient Fine-tuning (PEFT) to fintune a foundation model in order to improve the accuracy for machine learning tasks. 
 
-Built whith Python and Jupyter notebook.
+It is developed whith Python in Jupyter Notebook.
 
 ## Python dependencies
 * datasets
